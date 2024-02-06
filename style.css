@@ -10,6 +10,16 @@ body{
 
 input{
     border-color: black;
-    border-radius: 40px;
+    border-radius: 30px;
 }
 
+.start{
+    background-color: lime;
+    border-radius: 30px;
+}
+
+.canvas{
+    background-color: cyan;
+    width: 50%;
+    height: 60%;
+}
